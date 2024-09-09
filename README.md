@@ -1,5 +1,26 @@
 # eShopSupport 
 
+
+
+Shto ti treba:
+
+- Ako imash ponova Nvidia graficka najnov ubuntu desktop
+- docker desktop
+- python3 venv
+- pyenv
+- cuda + cudnn 12 + proveri dali e vo path
+- trust certs vo chrome i vo ubuntu deka posebno se na linux
+- IDE primer Jetbrains Rider
+- Nvidia docker toolkit (za da vrze kontejneri so gpu)
+- napvarvi venv za pajton proekt vo sloution od konzola, i posle izvrshi pip komanda podolu
+- po difolt imashe proektot nekoi zaebancii so verzii gi ispraviv
+
+
+
+
+================================================================
+
+
 A sample .NET application showcasing common use cases and development practices for build AI solutions in .NET (Generative AI, specifically). This sample demonstrates a customer support application for an e-commerce website using a services-based architecture with .NET Aspire. It includes support for the following AI use cases:
 
 * Text classification, applying labels based on content
